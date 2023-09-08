@@ -1,5 +1,6 @@
-public class Main {
-    public static void main(String[] args) {
-        system.out.println("Yaw Ampadu");
-    }
-}
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Yaw Ampadu</p>
+    </body>
+</html>
